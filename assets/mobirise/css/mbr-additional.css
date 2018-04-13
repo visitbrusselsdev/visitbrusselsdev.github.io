@@ -1512,30 +1512,18 @@ body {
 .cid-qOV7NovpZP .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-qP07s8CRbo {
-  padding-top: 75px;
+.cid-qP5d1ILnvF {
+  padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ea456f;
+  background: linear-gradient(0deg, #ea456f, #ea456f);
 }
-.cid-qP07s8CRbo [class^="socicon-"]:before,
-.cid-qP07s8CRbo [class*=" socicon-"]:before {
-  line-height: 44px;
+.cid-qP5d1ILnvF .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ffffff;
 }
-.cid-qP07s8CRbo .btn-social {
-  border-color: #ffffff;
+.cid-qP5d1ILnvF .social-list a:focus {
+  text-decoration: none;
 }
-.cid-qP07s8CRbo .btn-social:hover {
-  background: #ffffff;
-}
-.cid-qP07s8CRbo .btn-social:hover i.socicon {
-  color: #000000 !important;
-}
-@media (max-width: 767px) {
-  .cid-qP07s8CRbo .btn {
-    font-size: 20px !important;
-  }
-}
-.cid-qP07s8CRbo .btn-social,
-.cid-qP07s8CRbo .mbr-section-title {
+.cid-qP5d1ILnvF H2 {
   color: #ffffff;
 }
