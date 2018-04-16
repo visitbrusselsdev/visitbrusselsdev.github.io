@@ -1378,7 +1378,7 @@ body {
 .cid-qOUZY3EKF1 {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #3db6a3;
 }
 .cid-qOUZY3EKF1 .counter-container {
   color: #767676;
@@ -1401,18 +1401,18 @@ body {
   margin: 5px 10px;
   line-height: 20px;
   transition: all .2s;
-  color: #ffffff;
-  background: #ea456f;
+  color: #000000;
+  background: #ffffff;
   width: 25px;
   height: 25px;
   border-radius: 50%;
   background: none;
-  border: 1px solid #ea456f;
-  color: #ea456f;
+  border: 1px solid #ffffff;
+  color: #ffffff;
   content: '✓';
 }
 .cid-qOUZY3EKF1 .mbr-text UL {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-qOV14PDpTP {
   background: #ffffff;
