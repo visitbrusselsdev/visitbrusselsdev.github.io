@@ -1372,9 +1372,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qOUZqp8ziq {
-  background-image: url("../../../assets/images/frunch-big-2000x2792.jpg");
-}
 .cid-qOUZY3EKF1 {
   padding-top: 60px;
   padding-bottom: 30px;
@@ -1413,18 +1410,6 @@ body {
 }
 .cid-qOUZY3EKF1 .mbr-text UL {
   color: #ffffff;
-}
-.cid-qOV14PDpTP {
-  background: #ffffff;
-}
-.cid-qOV14PDpTP .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-qOV14PDpTP .video-block {
-    width: 100% !important;
-  }
 }
 .cid-qOV5Z1N0oX {
   padding-top: 45px;
